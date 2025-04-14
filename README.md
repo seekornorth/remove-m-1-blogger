@@ -24,8 +24,8 @@ Cloudflare Worker ini secara otomatis menghapus parameter `?m=1` dari URL Blogge
 ### 1. Clone repository
 
 ```bash
-git clone [https://github.com/tukultangankiwo/remove-m-1-blogger/]
-remove-m-1-blogger
+git clone https://github.com/tukultangankiwo/remove-m-1-blogger/
+cd remove-m-1-blogger
 ```
 
 ### 2. Masuk ke Cloudflare Dashboard
