@@ -45,7 +45,7 @@ Buka [https://dash.cloudflare.com/](https://dash.cloudflare.com/)
 Tambahkan Route agar Worker aktif di domain Blogger milikmu. Contoh:
 
 ```
-blog.om.com/*
+www.blogane.me/*
 ```
 
 > Pastikan domain Blogger kamu sudah menggunakan nameserver Cloudflare.
