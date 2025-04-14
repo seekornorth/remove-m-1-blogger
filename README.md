@@ -38,7 +38,7 @@ Buka [https://dash.cloudflare.com/](https://dash.cloudflare.com/)
 - Klik tombol **Create Application**
 - Pilih **Create Worker**
 - Hapus kode default dari editor
-- Paste isi file `index.js` dari repo ini
+- Paste isi file `worker.js` dari repo ini
 
 ### 4. Atur Route
 
