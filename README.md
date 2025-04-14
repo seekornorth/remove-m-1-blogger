@@ -59,15 +59,15 @@ Klik **Deploy**. Worker langsung aktif di domainmu.
 ## ✅ Contoh Hasil
 
 **Sebelum:**
-
+![Sebelum Menggunakan CloudFlare Workers](images/sebelum.png)
 ```
-https://blog.om.com/tutorial-hacking.html?m=1
+https://www.seekornorth.biz.id/m=1
 ```
 
 **Setelah redirect otomatis:**
-
+![Sesudah Menggunakan CloudFlare Workers](images/sesudah.png)
 ```
-https://blog.om.com/tutorial-hacking.html
+https://www.seekornorth.biz.id/
 ```
 
 ---
